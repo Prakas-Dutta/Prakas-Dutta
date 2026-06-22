@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Prakas Dutta 👋
 
-<!--
-**Prakas-Dutta/Prakas-Dutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA final year student at University of Kalyani | GATE CSE 2026 (Top 13%)
 
-Here are some ideas to get you started:
+I build systems-level tools and ML pipelines — mostly in C and Python.
+Currently seeking software developer roles at product-based companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+- 234 LeetCode problems solved | 169-day max streak
+- GATE Score: 359 | AIR 26,568 (Top 13% among 2,11,020 candidates)
+- JECA Rank 83 (2024)
+
+## Connect
+[LinkedIn](https://linkedin.com/in/prakas-dutta) · [LeetCode](https://leetcode.com/u/Prakas26)
