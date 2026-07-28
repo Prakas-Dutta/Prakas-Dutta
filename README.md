@@ -11,9 +11,9 @@ Currently seeking software developer roles at product-based companies.
 - JECA Rank 83 (2024)
 
 ## Certificates
-- 📄 [GATE Scorecard](Certificates/gate_scorecard.pdf)
-- 📄 [Python Basic Certificate](Certificates/python_basic%20certificate.pdf)
-- 📄 [SQL Basic Certificate](Certificates/sql_basic%20certificate.pdf)
+- ![GATE Scorecard](Certificates/gate_scorecard.jpg)
+- ![Python Basic Certificate](Certificates/python_basic_certificate.jpg)
+- ![SQL Basic Certificate](Certificates/sql_basic_certificate.jpg)
 
 
 ## Connect
