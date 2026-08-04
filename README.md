@@ -12,8 +12,9 @@ Currently seeking software developer roles at product-based companies.
 
 ## Certificates
 - ![GATE Scorecard](Certificates/gate_scorecard.jpg)
-- ![Python Basic Certificate](Certificates/python_basic_certificate.jpg)
+- ![Problem Solving Basic Certificate](Certificates\problem_solving_basic_certificate.jpg)
 - ![SQL Basic Certificate](Certificates/sql_basic_certificate.jpg)
+- ![Python Basic Certificate](Certificates/python_basic_certificate.jpg)
 
 
 ## Connect
