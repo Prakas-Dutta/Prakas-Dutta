@@ -12,10 +12,10 @@ Currently seeking software developer roles at product-based companies.
 
 ## Certificates
 - ![GATE Scorecard](Certificates/gate_scorecard.jpg)
-- ![Problem Solving Basic Certificate](Certificates\problem_solving_basic_certificate.jpg)
+- ![Problem Solving Intermediate Certificate](Certificates\problem_solving_intermediate.jpg)
 - ![SQL Basic Certificate](Certificates/sql_basic_certificate.jpg)
 - ![Python Basic Certificate](Certificates/python_basic_certificate.jpg)
 
 
 ## Connect
-[LinkedIn](https://linkedin.com/in/prakas-dutta) · [LeetCode](https://leetcode.com/u/Prakas26)
+[LinkedIn](https://linkedin.com/in/prakas-dutta-) · [LeetCode](https://leetcode.com/u/Prakas26) . [Gmail](prakasdutta7@gmail.com)
